@@ -6,7 +6,7 @@
       "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/randy-bresnik.jpg",
       "biophotowidth" : 640,
       "biophotoheight" : 800,
-      "country" : "usa",
+      "country" : "USA",
       "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-usa.jpg",
       "launchdate" : "2017-07-28",
       "careerdays" : 11,
@@ -21,7 +21,7 @@
       "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/sergey-ryazansky.jpg",
       "biophotowidth" : 640,
       "biophotoheight" : 800,
-      "country" : "russia",
+      "country" : "RUSSIA",
       "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-russia.jpg",
       "launchdate" : "2017-07-28",
       "careerdays" : 167,
@@ -36,7 +36,7 @@
       "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/paolo-nespoli.jpg",
       "biophotowidth" : 640,
       "biophotoheight" : 800,
-      "country" : "italy",
+      "country" : "ITALY",
       "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-italy.jpg",
       "launchdate" : "2017-07-28",
       "careerdays" : 175,
@@ -51,7 +51,7 @@
       "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/mark-vande-hei.jpg",
       "biophotowidth" : 640,
       "biophotoheight" : 800,
-      "country" : "usa",
+      "country" : "USA",
       "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-usa.jpg",
       "launchdate" : "2017-09-12",
       "careerdays" : 0,
@@ -66,7 +66,7 @@
       "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/joseph-acaba.jpg",
       "biophotowidth" : 640,
       "biophotoheight" : 800,
-      "country" : "usa",
+      "country" : "USA",
       "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-usa.jpg",
       "launchdate" : "2017-09-12",
       "careerdays" : 138,
@@ -81,7 +81,7 @@
       "biophoto" : "https://howmanypeopleareinspacerightnow.com/app/biophotos/alexander-misurkin.jpg",
       "biophotowidth" : 640,
       "biophotoheight" : 800,
-      "country" : "russia",
+      "country" : "RUSSIA",
       "countryflag" : "https://howmanypeopleareinspacerightnow.com/app/flags/flag-russia.jpg",
       "launchdate" : "2017-09-12",
       "careerdays" : 166,
@@ -94,8 +94,3 @@
 
   ]
 }
-
-
-
-
-   
